@@ -1,0 +1,17 @@
+{
+  "git_revision": "8f9b238e851ad32ffc20ea0732be95dfb49598a9",
+  "artifacts": {
+    "installer": {
+      "filename": "WetPaper-2026.08.r1-8f9b238-Win64-VS2022.exe",
+      "size": 14826711,
+      "timestamp": "2026-08-24T14:20:43Z",
+      "sha256": "1a32ed688d9ccb7f0c8bc791eefbedcca53b36c2bc7e887eb94dd52613aa27f8"
+    },
+    "portable": {
+      "filename": "WetPaper-2026.08.r1-8f9b238-Win64-VS2022.zip",
+      "size": 15472775,
+      "timestamp": "2026-08-24T14:20:44Z",
+      "sha256": "1d804d380bab2c42889cc4a0d65be05f7079b9f567c6c118da1ec9d44fee4be6"
+    }
+  }
+}
